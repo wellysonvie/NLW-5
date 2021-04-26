@@ -13,10 +13,6 @@ Consiste em um agregador de episódios do podcast FalaDev.
 
 ## Scripts
 
-### Executando API fake
-
-
-
 ### Executando em desenvolvimento
 
 - Execute a API fake com: `yarn server` 
