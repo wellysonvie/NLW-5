@@ -1,6 +1,6 @@
 # Podcastr
 
-Projeto desenvolvido na trilha de ReactJS da NLW#4 - RocketSeat
+Projeto desenvolvido na trilha de ReactJS da NLW#4 - RocketSeat.
 
 Consiste em um agregador de episódios do podcast FalaDev.
 
@@ -13,9 +13,14 @@ Consiste em um agregador de episódios do podcast FalaDev.
 
 ## Scripts
 
+### Executando API fake
+
+
+
 ### Executando em desenvolvimento
 
-- Execute `yarn dev`
+- Execute a API fake com: `yarn server` 
+- Em seguida, execute a aplicação com: `yarn dev`
 - Acesse http://localhost:3000 para visualizar no browser.
 
 ### Executando em produção:
