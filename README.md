@@ -23,7 +23,7 @@ Consiste em um agregador de episódios do podcast FalaDev.
 - Em seguida, execute a aplicação com: `yarn dev`
 - Acesse http://localhost:3000 para visualizar no browser.
 
-### Executando em produção:
+### Executando em produção
 
 - Execute `yarn build` para empacotar a aplicação e gerar as páginas estáticas
 - Em seguida, `yarn start` para executar.
