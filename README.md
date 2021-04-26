@@ -1,6 +1,6 @@
 # Podcastr
 
-Projeto desenvolvido na trilha de ReactJS da NLW#4 - RocketSeat.
+Projeto desenvolvido na trilha de ReactJS da NLW#5 - RocketSeat.
 
 Consiste em um agregador de episódios do podcast FalaDev.
 
