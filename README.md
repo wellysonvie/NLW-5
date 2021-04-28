@@ -1,25 +1,33 @@
-# Podcastr
+<h1 align="center">
+  <img alt="podcastr" title="podcastr" src="public/logo.svg" />
+</h1>
+
+<p align="center">
+  <img alt="Podcastr" src="public/screenshot.png" width="100%">
+</p>
+
+## 💻 Projeto
 
 Projeto desenvolvido na trilha de ReactJS da NLW#5 - RocketSeat.
 
 Consiste em um agregador de episódios do podcast FalaDev.
 
-## Tecnologias utilizadas
+## ✨ Tecnologias
 
 - HTML5/CSS3
 - Sass
 - ReactJS
 - Next.js (Utilizando conceitos de SSR, SSG e ISR)
+- TypeScript
 
-## Scripts
+## 🚀 Como executar
 
-### Executando em desenvolvimento
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie a fake api com `yarn server`
+- Inicie o servidor com `yarn dev`
 
-- Execute a API fake com: `yarn server` 
-- Em seguida, execute a aplicação com: `yarn dev`
-- Acesse http://localhost:3000 para visualizar no browser.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-### Executando em produção
-
-- Execute `yarn build` para empacotar a aplicação e gerar as páginas estáticas
+- Em produção, execute `yarn build` para empacotar a aplicação e gerar as páginas estáticas
 - Em seguida, `yarn start` para executar.
