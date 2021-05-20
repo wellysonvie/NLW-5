@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Podcastr" src="public/screenshot.png" width="100%">
+  <img alt="Podcastr" src="public/screenshot.webp" width="100%">
 </p>
 
 ## 💻 Projeto
